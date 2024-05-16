@@ -2,7 +2,7 @@
 
 ## A.I. vs M.L. vs D.L.
 
-![compare Grap](graph)\
+![compare Grap][graph]
 [graph]: aimldl.png
 
 
@@ -114,3 +114,6 @@ Machine Learning enables computers to learn from data and improve over time with
 
 ### Summary:
 Deep Learning is a powerful subset of machine learning that uses complex neural networks with multiple layers to model intricate patterns in data. It excels in areas with large datasets and requires high computational power, enabling breakthroughs in various fields like computer vision, natural language processing, and more. By leveraging advanced algorithms and architectures, deep learning continues to drive innovation and improve the accuracy and efficiency of predictive models.
+
+
+[graph]: graph
