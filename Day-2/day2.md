@@ -2,8 +2,9 @@
 
 ## A.I. vs M.L. vs D.L.
 
-![compare Grap][graph]
-[graph]: aimldl.png
+![Flow Diagrame][flowchart]
+
+[flowchart]: aimldl.png
 
 
 > Aritifical Intelligence 
