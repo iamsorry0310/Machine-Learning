@@ -11,7 +11,7 @@
 
 2. We dont have a need to write code for each and every case. Our algorithm handles it.
 
-- When we can use machine learning
+- **When we can use machine learning**
 
 1. We not write code for each and every case everythings like email classifiers.
 2. As we change the data our logic also change.
